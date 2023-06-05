@@ -1,0 +1,8 @@
+{
+  "id": "weapon-forty",
+  "name": "Swords",
+  "description": "Swords for smiting foes",
+  "image": "image.png",
+  "category": "objects",
+  "public": false
+}
